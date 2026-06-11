@@ -22,6 +22,10 @@ Danidevlab 입니다!
 
 [![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDODQIotg)](https://www.git-ranker.com/ko/users/danidevlab)
 
+</br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hallo!+My+name+is+danidevlab;I+can+write++javascript%2C+html%2C+css;Good+day!+%3A))](https://git.io/typing-svg)
+
 ---
 
 ## Contact
