@@ -6,15 +6,6 @@ Danidevlab 입니다!
 ---
 
 <br>
-<img src="img.svg" width="100%">
-<br>
-
----
-
-<img src="https://komarev.com/ghpvc/?username=danidevlab&color=00ff9d&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-
-
-<br>
 
 ![danidevlab's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danidevlab&theme=github-dark&area=true&hide_border=true)
 
