@@ -18,7 +18,7 @@ Danidevlab 입니다!
 
 ## Contact
 
-daniell0626@naver.com 또는 danieell0626@gmail.com 으로 이메일을 남겨주시거나 issue를 생성해세요
+daniell0626@naver.com 또는 danieell0626@gmail.com 으로 이메일을 남겨주시거나 issue를 생성해주세요
 <br>
 
 ---
