@@ -14,14 +14,11 @@ Danidevlab 입니다!
 [![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDODQIotg)](https://www.git-ranker.com/ko/users/danidevlab)
 
 </br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hallo!+My+name+is+danidevlab;I+can+write++javascript%2C+html%2C+css;Good+day!+%3A))](https://git.io/typing-svg)
-
 ---
 
 ## Contact
 
-daniell0626@naver.com 또는 danieell0626@gmail.com 으로 연락주시거나 issue를 넣어주세요
+daniell0626@naver.com 또는 danieell0626@gmail.com 으로 이메일을 남겨주시거나 issue를 생성해세요
 <br>
 
 ---
